@@ -1,0 +1,18 @@
+<!DOCTPE html>
+<html>
+
+<head>
+  <title>CineLearn</title>
+  <meta charset="UFT-8">
+  <meta name"viewport"content="width=device-width,inicial=scale=1">
+  <link rel="stylesheet"href="stylesheet.css">
+  <link rel="preconnect"heref"https://fonts.googleapis.com">  
+  <link rel="preconnect"href"https://fonts.gstatic.com"crossorigin>
+  <link href="preconnect"href="https://fints.googleapis.con/css2?family-Imter:wght@400;700display=swap"rel="stylesheet">
+</head>
+
+<body><
+   <section class="principalcontainer">
+        <div class="container__caixa">
+             <h1 class="container__"
+
