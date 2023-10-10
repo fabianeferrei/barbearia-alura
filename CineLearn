@@ -14,5 +14,31 @@
 <body><
    <section class="principalcontainer">
         <div class="container__caixa">
-             <h1 class="container__"
+             <h1 class="container__titulo"você pode aproveitar a CineLearn+ e o CineLearn lìngua inglesa por um preço ùnico</h1>  
+            <img> src="img Combo.png"alt="O combo+ è a junção do CineLearn+ e  p CineLearn lÎngua inglesa" class=" container_ imagem">
+            <a href="www.CineLearn.com.br" class="continer_botao">Assine por 12x de R$49,00*</a>    
+            <a href="www.CineLearn.com.br"class="container_botao botao secundario">Assinar somente o CineLearn+</a>
+            <p class="container_aviso">* O preço pode variar caso a assinatura seja feita em outros planos</p>
+      </div>
+</section> 
 
+<section class="container secundario">
+    <img src="img/Plataforma.png"alt="Um monitor eum cellular com o CineLearn aberta" class="secundario_imagem">
+    <div class="container_descricao">
+         <h2 class="descricao_ titulo"Assistta do seu jeito</h2>
+         <p class="descricao_titulo">Aproveite a tela grande da TV ou assista no tablet,latop,celular e outos 
+            aparelos.Nosa seleção de cursos não  para de crecer.</p>
+    </div>
+   </section>        
+
+<section class="container secunadrio">
+   <div class="container_descricao">
+    <p class=" descricao_ texto">
+       CineLearn sempre junto para você ter acesso a cursos de diversas àreas da  tecnologia e aprender inglês, onde e como quiser
+    </p>
+    <a href ="www.CineLearn"class="container_ botao secundario_botao" container></a> 
+</div>
+  <img src="img/Telas.png"alt="Tela do CineLearn+ e CineLearn lìngua"class="secundario_imagem"> 
+</section>
+
+<
