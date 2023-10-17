@@ -41,4 +41,45 @@
   <img src="img/Telas.png"alt="Tela do CineLearn+ e CineLearn lìngua"class="secundario_imagem"> 
 </section>
 
-<
+<section class="divices>"
+     <h2 classs="divices_title>Available us your divices favorites</h2>"
+     <ul class="divices_list>"
+         <li>
+               <img src="imf/tv.png" alt="Icon in hadlision">
+               <h3 class="list_item">TV</h3>
+         </li>
+         <li>
+               <img src="img/computer.png" alt="Icon in computer">
+               <h3 class="list_item">Computer</h3>
+        </li>
+        <li>
+              <img src="img/cell phone.png" alt="Icon in cell phone"
+              <h3 class="list_item">cell phonne</h3>
+         </li>
+      </ul>
+   </section>
+
+  <footer class="rodape">
+      <img src="img/soon.png" alt="CineLearn+" class="ropade_soon"
+      <ul class="ropdape_list">
+           <li class="List_link">
+               <a href="#">Language</a>
+           </li>
+           <li class="list_link">
+               <a href="#"Available compatible</a>
+           </li>
+           <li class="list_link">
+               <a href="#">contract in signature</a>
+           </li>
+           <li class="List_link">
+               <a href="#">Help</a>
+           </li>
+     <ul>
+    <p class="rodape_text">2022 Cinelearn, CineLearn+ it is CineLearn languagem.All you rigths reserved. Services in
+       signature pay </p>
+   <p class="rodape_text">CineLearn+ it is one service pay </p>    
+    </footer>
+
+</body>
+
+</html>
